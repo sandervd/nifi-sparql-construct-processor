@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>be.vlaanderen.informatievlaanderen</groupId>
-    <artifactId>nifi-ldes-version-materialisation-processors</artifactId>
+    <artifactId>nifi-ldes-sparql-construct-processors</artifactId>
     <version>0.0-SNAPSHOT-${maven.build.timestamp}</version>
 
     <packaging>nar</packaging>
